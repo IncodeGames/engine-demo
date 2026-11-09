@@ -1,0 +1,6 @@
+#Directories
+[Bb]uild/
+[Bb]in/
+
+*.pdb
+*.cache
